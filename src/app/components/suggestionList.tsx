@@ -16,7 +16,7 @@ const SuggestionList: React.FC<SuggestionListProps> = ({ suggestions, onSuggesti
     }
 
     return (
-        <ul className="mt-2 w-1/3 bg-white border border-gray-300 rounded-xl shadow-lg max-h-60 overflow-y-auto fixed top-24">
+        <ul className="mt-2 w-[85%] md:w-1/3 bg-white border border-gray-300 rounded-xl shadow-lg max-h-60 overflow-y-auto fixed top-24">
             {suggestions.map((suggestion) => (
                 <li
                     key={suggestion.localityId}
