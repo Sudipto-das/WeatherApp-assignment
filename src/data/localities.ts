@@ -314,6 +314,398 @@ export const localities = [
         "latitude": 22.616559,
         "longitude": 88.420665,
         "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Bhowanipore",
+        "localityId": "ZWL006750",
+        "latitude": 22.526436,
+        "longitude": 88.343904,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Elgin",
+        "localityId": "ZWL008828",
+        "latitude": 22.543063,
+        "longitude": 88.356096,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Howrah",
+        "localityId": "ZWL008426",
+        "latitude": 22.604678,
+        "longitude": 88.342218,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "New Alipore",
+        "localityId": "ZWL007323",
+        "latitude": 22.506135,
+        "longitude": 88.332770,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Barasat",
+        "localityId": "ZWL006266",
+        "latitude": 22.735727,
+        "longitude": 88.490498,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "New Town (kolkata)",
+        "localityId": "ZWL008393",
+        "latitude": 22.588818,
+        "longitude": 88.457964,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Uttarpara",
+        "localityId": "ZWL007966",
+        "latitude": 22.692420,
+        "longitude": 88.342900,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Santoshpur",
+        "localityId": "ZWL001039",
+        "latitude": 22.502107,
+        "longitude": 88.388897,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Liluah",
+        "localityId": "ZWL003882",
+        "latitude": 22.635342,
+        "longitude": 88.343314,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Rajarhat",
+        "localityId": "ZWL004925",
+        "latitude": 22.621505,
+        "longitude": 88.446915,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Park Street area",
+        "localityId": "ZWL005244",
+        "latitude": 22.552632,
+        "longitude": 88.362888,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Baghajatin Colony",
+        "localityId": "ZWL003687",
+        "latitude": 22.481243,
+        "longitude": 88.374932,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Shrirampur",
+        "localityId": "ZWL008120",
+        "latitude": 22.735733,
+        "longitude": 88.344597,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Chhota Jagulia",
+        "localityId": "ZWL007514",
+        "latitude": 22.759573,
+        "longitude": 88.747215,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Dum Dum",
+        "localityId": "ZWL003935",
+        "latitude": 22.656310,
+        "longitude": 88.423694,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Kestopur",
+        "localityId": "ZWL002931",
+        "latitude": 22.597524,
+        "longitude": 88.431114,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Sodepur",
+        "localityId": "ZWL006521",
+        "latitude": 22.701254,
+        "longitude": 88.383329,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Nimta",
+        "localityId": "ZWL005558",
+        "latitude": 22.670256,
+        "longitude": 88.413503,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Shapoorji",
+        "localityId": "ZWL005174",
+        "latitude": 22.567623,
+        "longitude": 88.497427,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Barabazar Market",
+        "localityId": "ZWL002488",
+        "latitude": 22.574220,
+        "longitude": 88.366682,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Salt Lake 1",
+        "localityId": "ZWL007934",
+        "latitude": 22.573829,
+        "longitude": 88.412814,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Tangra",
+        "localityId": "ZWL001584",
+        "latitude": 22.555059,
+        "longitude": 88.388175,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Gariahat",
+        "localityId": "ZWL005429",
+        "latitude": 22.514492,
+        "longitude": 88.362000,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Santragachi",
+        "localityId": "ZWL005121",
+        "latitude": 22.621044,
+        "longitude": 88.283605,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Garia",
+        "localityId": "ZWL007830",
+        "latitude": 22.469249,
+        "longitude": 88.382261,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Chinsurah, Kolkata",
+        "localityId": "ZWL008991",
+        "latitude": 22.933551,
+        "longitude": 88.398649,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Kankurgachi",
+        "localityId": "ZWL009194",
+        "latitude": 22.573467,
+        "longitude": 88.391666,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Kolkata",
+        "localityName": "Kasba",
+        "localityId": "ZWL004722",
+        "latitude": 22.521693,
+        "longitude": 88.389844,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Mira Road East",
+        "localityId": "ZWL006536",
+        "latitude": 19.278130,
+        "longitude": 72.874722,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Kandivali West",
+        "localityId": "ZWL004934",
+        "latitude": 19.212156,
+        "longitude": 72.828850,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Jogeshwari East",
+        "localityId": "ZWL003776",
+        "latitude": 19.133640,
+        "longitude": 72.861331,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Powai",
+        "localityId": "ZWL006437",
+        "latitude": 19.117195,
+        "longitude": 72.913200,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Malad West",
+        "localityId": "ZWL004740",
+        "latitude": 19.185480,
+        "longitude": 72.833908,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Andheri East",
+        "localityId": "ZWL002248",
+        "latitude": 19.119730,
+        "longitude": 72.869539,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Turbhe",
+        "localityId": "ZWL001315",
+        "latitude": 19.074272,
+        "longitude": 73.013920,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Santacruz West",
+        "localityId": "ZWL008294",
+        "latitude": 19.079689,
+        "longitude": 72.841146,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Borivali East",
+        "localityId": "ZWL006828",
+        "latitude": 19.239327,
+        "longitude": 72.864570,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Bandra West",
+        "localityId": "ZWL004019",
+        "latitude": 19.055421,
+        "longitude": 72.825916,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Mahim",
+        "localityId": "ZWL002229",
+        "latitude": 19.038859,
+        "longitude": 72.842942,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Vikhroli East",
+        "localityId": "ZWL007437",
+        "latitude": 19.104677,
+        "longitude": 72.933667,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Worli",
+        "localityId": "ZWL002897",
+        "latitude": 18.995613,
+        "longitude": 72.815258,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Mulund West",
+        "localityId": "ZWL003239",
+        "latitude": 19.184656,
+        "longitude": 72.948599,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Bhandup West",
+        "localityId": "ZWL007728",
+        "latitude": 19.147827,
+        "longitude": 72.935431,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Lower Parel",
+        "localityId": "ZWL004160",
+        "latitude": 18.993622,
+        "longitude": 72.825795,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Dadar West",
+        "localityId": "ZWL007523",
+        "latitude": 19.018728,
+        "longitude": 72.841016,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Prabhadevi",
+        "localityId": "ZWL004662",
+        "latitude": 19.012774,
+        "longitude": 72.825172,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Dahisar East",
+        "localityId": "ZWL005825",
+        "latitude": 19.255524,
+        "longitude": 72.861710,
+        "device_type": "Automated weather system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Chembur",
+        "localityId": "ZWL005793",
+        "latitude": 19.053300,
+        "longitude": 72.899788,
+        "device_type": "Rain gauge system"
+    },
+    {
+        "cityName": "Mumbai",
+        "localityName": "Dombivali East",
+        "localityId": "ZWL005113",
+        "latitude": 19.229188,
+        "longitude": 73.081320,
+        "device_type": "Automated weather system"
     }
 
 ]
